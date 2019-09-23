@@ -37,7 +37,7 @@
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",
-    "lru-cache": "^4.1.1",
+    "lru-cache": "^4.1.5",
     "morgan": "^1.7.0",
     "request": "^2.64.0"
   },
